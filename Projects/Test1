@@ -1,0 +1,3 @@
+print("Hello " + user + "!")
+name = raw_input("What is your name ")
+print "today is going to be a great day"
